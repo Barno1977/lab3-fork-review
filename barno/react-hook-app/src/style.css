@@ -1,0 +1,10 @@
+/* Liked emojis (larger) */
+.individual-emoji-list-container:first-of-type li {
+    font-size: 30px;    /* was 45px */
+  }
+  
+  /* Unselected emojis (smaller) */
+  .individual-emoji-list-container:last-of-type li {
+    font-size: 20px;    /* was 25px */
+    line-height: 40px;  /* adjust to match size */
+  }

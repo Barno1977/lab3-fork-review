@@ -1,0 +1,28 @@
+1)def reverse_alphabet():
+    alphabet = 'abcdefghijklmnopqrstuvwxyz'
+    reversed_alphabet = alphabet[::-1]
+    print(reversed_alphabet)
+
+reverse_alphabet()
+ 
+
+
+2)def find_italic_letters(array):
+    for letter in array:
+        if letter in ['𝒶', '𝒷', '𝒸', '𝒹', '𝑒', '𝒻', '𝑔', '𝒽', '𝒾', '𝒿', '𝓀', '𝓁', '𝓂', '𝓃', '𝑜', '𝓅', '𝓆', '𝓇', '𝓈', '𝓉', '𝓊', '𝓋', '𝓌', '𝓍', '𝓎', '𝓏']:
+            print(letter)
+
+arrays = [
+    ['a', '𝒷', 'c', 'd', '𝓃'],
+    ['z', 'y', '𝓍', 'w', 'v'],
+    ['𝒽', 'i', 'j', '𝓀', 'l'],
+    ['q', 'r', '𝓈', 't', 'u'],
+    ['c', 'b', 'a']
+]
+
+for array in arrays:
+    find_italic_letters(array)
+
+
+
+

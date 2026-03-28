@@ -1,0 +1,24 @@
+C:\Users\PC-5\Desktop\IST-3-23 ООП Нурс\ИСТ3-23(ООП Нурс Лб)\bin\Debug\ИСТ3-23(ООП Нурс Лб).exe.config
+C:\Users\PC-5\Desktop\IST-3-23 ООП Нурс\ИСТ3-23(ООП Нурс Лб)\bin\Debug\ИСТ3-23(ООП Нурс Лб).exe
+C:\Users\PC-5\Desktop\IST-3-23 ООП Нурс\ИСТ3-23(ООП Нурс Лб)\bin\Debug\ИСТ3-23(ООП Нурс Лб).pdb
+C:\Users\PC-5\Desktop\IST-3-23 ООП Нурс\ИСТ3-23(ООП Нурс Лб)\obj\Debug\ИСТ3-23(ООП Нурс Лб).csproj.AssemblyReference.cache
+C:\Users\PC-5\Desktop\IST-3-23 ООП Нурс\ИСТ3-23(ООП Нурс Лб)\obj\Debug\ИСТ3_23_ООП_Нурс_Лб_.Form1.resources
+C:\Users\PC-5\Desktop\IST-3-23 ООП Нурс\ИСТ3-23(ООП Нурс Лб)\obj\Debug\ИСТ3_23_ООП_Нурс_Лб_.Properties.Resources.resources
+C:\Users\PC-5\Desktop\IST-3-23 ООП Нурс\ИСТ3-23(ООП Нурс Лб)\obj\Debug\ИСТ3-23(ООП Нурс Лб).csproj.GenerateResource.cache
+C:\Users\PC-5\Desktop\IST-3-23 ООП Нурс\ИСТ3-23(ООП Нурс Лб)\obj\Debug\ИСТ3-23(ООП Нурс Лб).csproj.CoreCompileInputs.cache
+C:\Users\PC-5\Desktop\IST-3-23 ООП Нурс\ИСТ3-23(ООП Нурс Лб)\obj\Debug\ИСТ3-23(ООП Нурс Лб).exe
+C:\Users\PC-5\Desktop\IST-3-23 ООП Нурс\ИСТ3-23(ООП Нурс Лб)\obj\Debug\ИСТ3-23(ООП Нурс Лб).pdb
+C:\Users\PC-5\Desktop\IST-3-23 ООП Нурс\ИСТ3-23(ООП Нурс Лб)\obj\Debug\ИСТ3_23_ООП_Нурс_Лб_.Form2.resources
+C:\Users\PC-5\Desktop\IST-3-23 ООП Нурс\ИСТ3-23(ООП Нурс Лб)\obj\Debug\ИСТ3_23_ООП_Нурс_Лб_.Form3.resources
+C:\Users\Admin\Desktop\IST-3-23 ООП Нурс\ИСТ3-23(ООП Нурс Лб)\bin\Debug\ИСТ3-23(ООП Нурс Лб).exe.config
+C:\Users\Admin\Desktop\IST-3-23 ООП Нурс\ИСТ3-23(ООП Нурс Лб)\bin\Debug\ИСТ3-23(ООП Нурс Лб).exe
+C:\Users\Admin\Desktop\IST-3-23 ООП Нурс\ИСТ3-23(ООП Нурс Лб)\bin\Debug\ИСТ3-23(ООП Нурс Лб).pdb
+C:\Users\Admin\Desktop\IST-3-23 ООП Нурс\ИСТ3-23(ООП Нурс Лб)\obj\Debug\ИСТ3-23(ООП Нурс Лб).csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\IST-3-23 ООП Нурс\ИСТ3-23(ООП Нурс Лб)\obj\Debug\ИСТ3_23_ООП_Нурс_Лб_.Form1.resources
+C:\Users\Admin\Desktop\IST-3-23 ООП Нурс\ИСТ3-23(ООП Нурс Лб)\obj\Debug\ИСТ3_23_ООП_Нурс_Лб_.Form2.resources
+C:\Users\Admin\Desktop\IST-3-23 ООП Нурс\ИСТ3-23(ООП Нурс Лб)\obj\Debug\ИСТ3_23_ООП_Нурс_Лб_.Form3.resources
+C:\Users\Admin\Desktop\IST-3-23 ООП Нурс\ИСТ3-23(ООП Нурс Лб)\obj\Debug\ИСТ3_23_ООП_Нурс_Лб_.Properties.Resources.resources
+C:\Users\Admin\Desktop\IST-3-23 ООП Нурс\ИСТ3-23(ООП Нурс Лб)\obj\Debug\ИСТ3-23(ООП Нурс Лб).csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\IST-3-23 ООП Нурс\ИСТ3-23(ООП Нурс Лб)\obj\Debug\ИСТ3-23(ООП Нурс Лб).csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\IST-3-23 ООП Нурс\ИСТ3-23(ООП Нурс Лб)\obj\Debug\ИСТ3-23(ООП Нурс Лб).exe
+C:\Users\Admin\Desktop\IST-3-23 ООП Нурс\ИСТ3-23(ООП Нурс Лб)\obj\Debug\ИСТ3-23(ООП Нурс Лб).pdb
